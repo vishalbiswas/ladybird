@@ -70,7 +70,7 @@ sudo apt update && sudo apt install g++-16 libstdc++-16-dev
 ### Arch Linux/Manjaro:
 
 ```
-sudo pacman -S --needed autoconf-archive base-devel ccache cmake curl git less libgl libpulse nasm ninja python qt6-base qt6-positioning qt6-tools ttf-liberation tar unzip xcb-util-wm zip
+sudo pacman -S --needed autoconf-archive base-devel ccache cmake curl git less libgl libpulse nasm ninja python qt6-base qt6-positioning qt6-tools ttf-liberation tar unzip vulkan-headers xcb-util-wm zip
 ```
 
 ### Fedora or derivatives:
